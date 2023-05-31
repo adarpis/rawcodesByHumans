@@ -1,3 +1,4 @@
+//Snippet code to do
 function gotoHell(n) {
   n++;
   try {
